@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "python.locator": "JS",
+    "python.useEnvironmentsExtension": false,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.codeActionOnSave": {
+            "source.fixAll.ruff": "never",
+            "source.organizeImports.ruff": "never"
+        }
+    },
+    "ruff.enable": true,
+    "ruff.organizeImports": false
+}
